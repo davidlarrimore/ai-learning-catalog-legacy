@@ -1,5 +1,11 @@
 # AI Learning Catalog
 
+> **This repository is archived.** The catalog moved to
+> **https://ai-learning-catalog.davidlarrimore.com**, which checks every course
+> link nightly and finds new courses weekly. This repo's GitHub Pages site now
+> redirects there. Its 214 courses (`docs/data/courses.json`) were the new
+> catalog's starting data.
+
 This repository curates a public, continuously updated list of AI and GenAI training opportunities. A static site publishes the catalog, while an automated backend gathers, normalizes, and enriches course metadata so people can quickly discover relevant learning paths.
 
 ## Access the Catalog
